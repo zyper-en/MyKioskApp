@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyKioskApp</string>
+    <string name="sample_device_admin_description">sample_device_admin_description</string>
+</resources>
